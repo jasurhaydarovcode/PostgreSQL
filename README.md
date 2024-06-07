@@ -15,4 +15,11 @@
 
 <div align="center">
 
+## Manual
 </div>
+
+- <a href="https://github.com/jasurhaydarovcode/PostgreSQL/blob/SQL/Create%20DB.md">Create Data Base</a>
+
+- <a href="https://github.com/jasurhaydarovcode/PostgreSQL/blob/SQL/Create%20Table.md">Create Table</a>
+
+- <a href="https://github.com/jasurhaydarovcode/PostgreSQL/blob/SQL/Delete%20DB.md">Delete Data Base</a>
